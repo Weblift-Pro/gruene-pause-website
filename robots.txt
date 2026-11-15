@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gruene-pause-biberach.de/sitemap.xml
